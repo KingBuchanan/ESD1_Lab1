@@ -1,0 +1,65 @@
+Quartus Prime Archive log --	C:/cpet561/lab1/lights.qarlog
+
+Archive:	C:/cpet561/lab1/lights.qar
+Date:		Fri Jan 19 14:19:09 2018
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Standard Edition
+
+	=========== Files Selected: ===========
+C:/cpet561/lab1/lights.qpf
+C:/cpet561/lab1/lights.qsf
+C:/cpet561/lab1/lights.vhd
+C:/cpet561/lab1/nios_system.qsys
+C:/cpet561/lab1/nios_system.sopcinfo
+C:/cpet561/lab1/nios_system/nios_system.cmp
+C:/cpet561/lab1/nios_system/synthesis/nios_system.debuginfo
+C:/cpet561/lab1/nios_system/synthesis/nios_system.qip
+C:/cpet561/lab1/nios_system/synthesis/nios_system.regmap
+C:/cpet561/lab1/nios_system/synthesis/nios_system.vhd
+C:/cpet561/lab1/nios_system/synthesis/nios_system_rst_controller.vhd
+C:/cpet561/lab1/nios_system/synthesis/nios_system_rst_controller_001.vhd
+C:/cpet561/lab1/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/altera_merlin_master_agent.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/altera_merlin_master_translator.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/altera_reset_controller.sdc
+C:/cpet561/lab1/nios_system/synthesis/submodules/altera_reset_controller.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/altera_reset_synchronizer.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_irq_mapper.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_leds.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_002.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_004.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_nios2_gen2_0.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu.sdc
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_sysclk.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_tck.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_wrapper.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_ociram_default_contents.mif
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_rf_ram_a.mif
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_rf_ram_b.mif
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_test_bench.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.hex
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_switches.v
+C:/cpet561/lab1/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v
+c:/intelfpga/16.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 54 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
